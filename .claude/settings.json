@@ -1,0 +1,5 @@
+{
+  "env": {
+    "HOSTINGER_API_TOKEN": "${HOSTINGER_API_TOKEN}"
+  }
+}
